@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkn-tr&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&locale=tr">
 </p>
 
-<h2 align="center">🛠️ Tamamladığım Eğitimler</h2>
+<h2 align="center">🎓 Tamamladığım Eğitimler</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Yazılım%20Geliştirme-✔️-green?style=flat-square" alt="Yazılım Geliştirme">
@@ -31,10 +31,10 @@
 <h2 align="center">🌟 Aktif Katılımlarım</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TEKNOFEST-Proje%20Geliştirme-orange?style=for-the-badge&logo=rocket" alt="TEKNOFEST Proje Geliştirme">
-  <img src="https://img.shields.io/badge/T3%20Vakfı-Gönüllü-orange?style=for-the-badge&logo=heart" alt="T3 Vakfı Gönüllü">
+  <img src="https://img.shields.io/badge/TEKNOFEST-Proje%20Geliştirme-orange?style=for-the-badge&logo=rocket" alt="TEKNOFEST'e Projeler Yapıyorum">
+  <img src="https://img.shields.io/badge/T3%20Vakfı-Gönüllü-orange?style=for-the-badge&logo=heart" alt="T3 Vakfı Gönüllüsüyüm">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frkn-tr&color=blueviolet&style=flat-square&label=Profile+Viewsr" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=frkn-tr&color=blueviolet&style=flat-square&label=Profil+Görüntülemeleri" alt="Profil Görüntülemeleri">
 </p>
