@@ -31,7 +31,7 @@
 <h2 align="center">🌟 Aktif Katılımlarım</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TEKNOFEST-Proje%20Geliştirme-orange?style=for-the-badge&logo=rocket" alt="TEKNOFEST'e Projeler Yapıyorum">
+  <img src="https://img.shields.io/badge/TEKNOFEST-Takım%20Kaptanlığı-orange?style=for-the-badge&logo=rocket" alt="TEKNOFEST'e Projeler Yapıyorum">
   <img src="https://img.shields.io/badge/T3%20Vakfı-Gönüllü-orange?style=for-the-badge&logo=heart" alt="T3 Vakfı Gönüllüsüyüm">
 </p>
 
